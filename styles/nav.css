@@ -1,0 +1,36 @@
+ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+
+    list-style-type: none;
+    padding: 0;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+li {
+    display: block;
+    padding: 20px;
+    height: auto;
+}
+
+li:first-child {
+    position: absolute;
+    left: 20px;
+    font-family: 'Yatra One';
+    font-size: 1.5em;
+}
+
+.nav a {
+    font-size: 1em;
+    color: whitesmoke;
+    text-align: center;
+    text-decoration: none;
+}
+
+.nav a:hover {
+    color:rgb(234, 225, 225);
+    text-decoration: underline;
+}
