@@ -7,13 +7,9 @@ body {
     font-family: 'Poppins', monospace;
     color: whitesmoke;
     background-color: #23272A;
+    overflow-x: hidden;
 }
 
 span {
     visibility: hidden;
-}
-
-.promotions-section img {
-    max-height: 100vh;
-    max-width: 100vw;
 }
