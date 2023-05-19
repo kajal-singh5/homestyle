@@ -1,6 +1,6 @@
 /* || Main section */
 .promotions-section {
-    border: 2px solid orange; /*for checking css box*/
+    /* border: 2px solid orange; for checking css box */
     margin: 30px 60px;
 
     display: flex;
@@ -18,7 +18,7 @@
 
 /* || Sub-sections */
 .promotions-section section {
-    border: 2px solid yellow; /*for checking css box*/
+    /* border: 2px solid yellow; for checking css box */
     width: 20%;
     height: 80%;
     padding: 1.5em;
