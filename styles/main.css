@@ -4,12 +4,13 @@
 
 body {
     font-size: 20px;
-    font-family: 'Poppins', monospace;
+    font-family: "Poppins", "Open Sans", monospace;
     color: whitesmoke;
     background-color: #23272A;
     overflow-x: hidden;
 }
 
-span {
-    visibility: hidden;
+body img {
+    max-width: 100%;
+    max-height: 100%;
 }
